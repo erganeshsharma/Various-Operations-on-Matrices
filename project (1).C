@@ -297,11 +297,7 @@ madd()  //matrix addition function
       printf("\t\t*============ PROJECT  DEVELOPED BY ============*\n\t\t*\t\t\t\t\t\t*\n");
       printf("\t\t*\t\t\t\t\t\t*\n");
       printf("\t\t*\t\tGANESH SHARMA\t\t\t*\n\t\t*\t\t\t\t\t\t*\n");
-      printf("\t\t*\t\t\t\t\t\t*\n\t\t*\t\t\t\t\t\t*\n");
-      printf("\t\t*\t\tPRANAB BARO\t\t\t*\n\t\t*\t\t\t\t\t\t*\n");
-      printf("\t\t*\t\t\t\t\t\t*\n\t\t*\t\t\t\t\t\t*\n");
-      printf( "\t\t*\t\tNABAJIT PATHAK\t\t\t*\n\t\t*\t\t\t\t\t\t*\n");
-      printf("\t\t*\t\t\t\t\t\t*\n\t\t*\t\t\t\t\t\t*\n");
+      printf("\t\t*\t\t\t\t\t\t*\n\t\t*\t\t\t\t\t\t*\n");      
       printf("\t\t*===============================================*");
       printf("\n\n");
       printf("\n\t\t\tPRESS ANY KEY:");
